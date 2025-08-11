@@ -4,7 +4,7 @@
 
 | Languages                                                                        | Technologies                                                                                |
 |----------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------|
-| ![](https://skillicons.dev/icons?i=java,py,kotlin,js,html,css&perline=3) | ![]([https://skillicons.dev/icons?i=maven,jenkins,mongodb,mysql,redis,linux,git,docker,nginx&perline=4](https://skillicons.dev/icons?      i=elasticsearch,jenkins,mongodb,mysql,redis,linux,git,docker,nginx,nodejs,vue,rabbitmq&perline=4)) |
+| ![](https://skillicons.dev/icons?i=java,py,kotlin,js,html,css&perline=3) | ![](https://skillicons.dev/icons?i=maven,jenkins,mongodb,mysql,redis,linux,git,docker,nginx,nodejs,vue,rabbitmq&perline=4) |
 
 | Software                                                                        | Operating Systems                                            |
 |---------------------------------------------------------------------------------|--------------------------------------------------------------|
